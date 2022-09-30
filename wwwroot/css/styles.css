@@ -1,0 +1,129 @@
+﻿/*
+ * Application: 'Time-managment: Lighting Project'
+ * Student ID: 10729705
+ * 
+ * This website is takes in activities the user enters in a form and then calculates how good they have been with the time-managment
+ * This SPA application outputs to a Hue Lightbulb via an API using RESTFUL APIs
+ * This Application stores JSON into the localStorage via the localStorage API in the set format layed out in the specification
+ * 
+ * This project may use other APIs or libraries when dealing with the advanced feature set such as graphing APIs as planned to make pie charts etc...
+ * Any tool I will be using will be refrenced here and in my documentation
+ * 
+ */
+
+@charset "UTF-8";
+
+body {
+    background: rgb(47,14,70);
+    background: radial-gradient(circle, rgba(47,14,70,1) 2%, rgba(8,8,37,1) 100%);
+    font-family: Calibri;
+    color: aliceblue;
+}
+
+
+
+header {
+    background: rgb(31,14,67);
+    background: radial-gradient(circle, rgba(31,14,67,1) 0%, rgba(124,29,152,1) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    width: 98.5%;
+}
+
+
+.changeUsernameValueClass {
+    width: 90%;
+    border-radius: 6px;
+    background: aliceblue;
+    padding: 3px;
+}
+
+.activity_name_class {
+    width: 90%;
+    border-radius: 6px;
+    background: aliceblue;
+    padding: 3px;
+}
+
+.differenceInput {
+    width: 10%;
+    border-radius: 6px;
+    background: aliceblue;
+    padding: 3px;
+}
+
+button {
+    font-size: 95%;
+    border-radius: 1px;
+}
+.submitBtn {
+    font-size: 100%;
+    border-radius: 6px;
+    font-weight: bold
+}
+
+.main_heading {
+    text-align: center;
+    font-weight: bold;
+}
+
+.sub_heading {
+    text-align: center;
+}
+
+.navigation_bar {
+    background: rgb(51,51,51);
+    background: radial-gradient(circle, rgba(51,51,51,1) 73%, rgba(35,35,35,1) 92%);
+    text-align: center;
+    width: 98.5%;
+    border-radius: 6px;
+    padding: 1%;
+    border: 1px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 8px;
+}
+
+a:hover {
+    color: dodgerblue; /*when it is hovered make it blue*/
+}
+
+
+.right_main {
+    background-color: dimgray;
+    width: 60%;
+    position: relative;
+    float: right;
+    padding: 1%;
+    border-radius: 6px;
+}
+
+.left_sidebar {
+    background-color: dimgray;
+    width: 35%;
+    position: relative;
+    float: left;
+    padding: 1%;
+    border-radius: 6px;
+}
+
+footer {
+    /* Height of the footer*/
+
+    background: rgb(31,14,67);
+    background: radial-gradient(circle, rgba(31,14,67,1) 0%, rgba(124,29,152,1) 100%);
+    text-align: center;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+    footer a {
+        color: aliceblue;
+    }
+

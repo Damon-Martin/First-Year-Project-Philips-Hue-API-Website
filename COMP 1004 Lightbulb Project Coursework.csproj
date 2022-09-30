@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>COMP_1004_Lightbulb_Project_Coursework</RootNamespace>
+  </PropertyGroup>
+
+</Project>

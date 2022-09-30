@@ -1,0 +1,130 @@
+﻿<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Philips Hue Lights</title>
+    <meta name="description" content="A simple interaction with lights using RESTFUL APIs">
+    <meta name="author" content="Damon Roger Martin">
+
+    <!--Meta Property OG will tell search engines what is inside my SPA website is about so it will be boosted in search results-->
+    <meta property="og:title" content="Philips Hue Lightbulb Interaction">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:description" content="Philips Hue Lightbulb Practice">
+    <meta property="og:image" content="image.png">
+
+
+    <link rel="icon" href="img/Lightbulb_ico.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!--JQUERY SPA APPLICATION SCRIPTS-->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+            integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+            crossorigin="anonymous"></script>
+    <script src="js/spa.js"></script>
+
+</head>
+
+<body>
+    <!--HTML5 supports terms like header nav article and footer instead of using div. Same thing but I find this implementation easier-->
+    <header id="header">
+        <h1 class="main_heading">Student Scheduling Program</h1>
+    </header id="header">
+    <div class="navigation">
+        <nav class="navigation_bar">
+            <!--Navigation Bar goes here-->
+            <a class="active" href="#" id="indexPanel">Home</a>
+            <a href="#" id="information">Information</a>
+            <a href="#" id="stats">Stats</a>
+            <a href="#" id="improvements">Improvements</a>
+            <a href="#" id="GDPR">GDPR Policy</a>
+        </nav>
+    </div>
+
+    <!--Content Goes in Here-->
+    <div id="container_row">
+
+        <!--SPA content to be loaded onto the screen witout refreshing the page inside page content wrapper <div>-->
+        <div id="page-content-wrapper">
+
+            <div id="leftContentPannel" class="left_sidebar">
+                <!--This is using html.Inner to inject Javascript here into the DOM-->
+                <div id="greetingUsername"></div>
+
+                <!--Change Username-->
+                <form id="new_user">
+                    <label for="username">Username: </label>
+                    <input type="text" name="username" placeholder="Enter Username" id="changeUsernameValue" class="changeUsernameValueClass" />
+                    <input type="submit" value="Change" id="changeUsernameBtn" class="submitBtn" />
+                </form>
+
+                <div id="save_menu">
+                    <button id="new">New</button>
+                    <button id="load">load</button>
+                    <button id="save">save</button>
+                </div>
+
+                <form id="get_new_activity">
+                    <label for="activity">Activity: </label>
+                    <input type="text" id="activity_name_id" name="activity_name" placeholder="Enter Activity" class="activity_name_class" required />
+                    <br />
+                    <label for="start_time">Desired Start Time</label>
+                    <input type="time" name="desired_start_time" id="desired_start_time_id" required />
+                    <label for="end_time">Desired End Time</label>
+                    <input type="time" name="desired_end_time" id="desired_end_time_id" required />
+                    <br />
+                    <label for="actual_start_time">Actual Start Time</label>
+                    <input type="time" name="actual_start_time" id="actual_start_time_id" required />
+                    <label for="actual_end_time">End Time</label>
+                    <input type="time" name="actual_end_time" id="actual_end_time_id" required />
+                    <br />
+                    <label>Max Bad diff %</label>
+                    <input type="text" class="differenceInput" id="max_diff" required />
+                    <label>Acceptable Ok diff %</label>
+                    <input type="text" class="differenceInput" id="min_diff" required />
+                    <br />
+                    <input type="submit" value="Add Activity" id="submitButtonPressed" class="submitBtn" />
+                    <button type="reset">Clear</button>
+                </form>
+
+
+            </div>
+
+            <!--This Pannel Changes with JQUERY for the SPA application-->
+            <div id="rightContentPannel" class="right_main">
+                <h2>Home</h2>
+                <p>
+                    This website is a time-managment tool free to use and all you need to do is enter your details and schedual and we can help identify
+                    the positives and negitives of your work-schedual.
+                </p>
+                <h3>Instructions to use</h3>
+                <ol>
+                    <li>Please enter an activity into the form to the left of the page</li>
+                    <li>
+                        Please enter the accaptble percentage diviation for the activity.<br />
+                        <ul>
+                            <li>
+                                For example, <b>'Max Bad diff %'</b> If you <b>enter 10</b> anything above
+                                <b>10% deviation</b> from the <i>expected duration</i> is <b><i>unacceptable</i></b>. However, <b>'Acceptable Ok diff %'</b> is <b>ok but not great</b> similar to the other one.'
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Feel free to change the Username. This will change the username for all activities</li>
+                </ol>
+            </div>
+
+        </div>
+        <!--Decided not to have  a Footer due to it taking too much space from the User Experience and it is not necessary and doing this makes scaleability between mobile devices so much better-->
+
+        <!--The js script refrence must be below this in the Body to modify the Body-->
+        <script type="module" src="js/main.js"></script>
+    </div>
+
+
+
+
+</body>
+</html>

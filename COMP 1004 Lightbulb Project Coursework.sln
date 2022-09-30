@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP 1004 Lightbulb Project Coursework", "COMP 1004 Lightbulb Project Coursework.csproj", "{016F2103-6E82-44EB-BAB8-7380FDD74D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016F2103-6E82-44EB-BAB8-7380FDD74D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016F2103-6E82-44EB-BAB8-7380FDD74D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016F2103-6E82-44EB-BAB8-7380FDD74D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016F2103-6E82-44EB-BAB8-7380FDD74D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5AAF34-DC34-4E90-9999-3AF204B96583}
+	EndGlobalSection
+EndGlobal

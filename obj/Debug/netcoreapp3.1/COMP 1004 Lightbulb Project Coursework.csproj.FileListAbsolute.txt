@@ -1,0 +1,103 @@
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.AssemblyReference.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfoInputs.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfo.cs
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.CoreCompileInputs.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.MvcApplicationPartsAssemblyInfo.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\bin\Debug\netcoreapp3.1\appsettings.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.exe
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.deps.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.dev.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\staticwebassets\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.Manifest.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\staticwebassets\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.xml
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\scopedcss\bundle\COMP 1004 Lightbulb Project Coursework.styles.css
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.RazorTargetAssemblyInfo.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\University\Year 1\COMP 1004\Assesments\Coursework\COMP 1004 Lightbulb Project Coursework\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.genruntimeconfig.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.exe
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.deps.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.dev.json
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.AssemblyReference.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfoInputs.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfo.cs
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.CoreCompileInputs.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.MvcApplicationPartsAssemblyInfo.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\staticwebassets\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.Manifest.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\staticwebassets\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.xml
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\scopedcss\bundle\COMP 1004 Lightbulb Project Coursework.styles.css
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.RazorTargetAssemblyInfo.cache
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\University\Year 1\COMP 1004\Assesments\Coursework\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.genruntimeconfig.cache
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.exe
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.deps.json
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.json
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.dev.json
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.AssemblyReference.cache
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfoInputs.cache
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfo.cs
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.CoreCompileInputs.cache
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\staticwebassets\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.Manifest.cache
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.RazorTargetAssemblyInfo.cache
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.genruntimeconfig.cache
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.xml
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.exe
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.deps.json
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.json
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.dev.json
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.AssemblyReference.cache
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfoInputs.cache
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfo.cs
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.CoreCompileInputs.cache
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\staticwebassets\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.Manifest.cache
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.RazorTargetAssemblyInfo.cache
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\Users\damon\OneDrive\Desktop\light_Practice\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.genruntimeconfig.cache
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.xml
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.exe
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.deps.json
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.json
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.runtimeconfig.dev.json
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\bin\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.AssemblyReference.cache
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfoInputs.cache
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.AssemblyInfo.cs
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.csproj.CoreCompileInputs.cache
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\staticwebassets\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.Manifest.cache
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.RazorTargetAssemblyInfo.cache
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.dll
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.pdb
+C:\Users\damon\OneDrive\Desktop\New folder\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\COMP 1004 Lightbulb Project Coursework.genruntimeconfig.cache
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\staticwebassets\COMP 1004 Lightbulb Project Coursework.StaticWebAssets.xml
+C:\Users\damon\OneDrive\Desktop\comp1004---main-assignment-Damon-Martin\obj\Debug\netcoreapp3.1\scopedcss\bundle\COMP 1004 Lightbulb Project Coursework.styles.css
