@@ -1,5 +1,6 @@
 # Hue Time-Managment Project
-First Year Project - Student ID: 10729705
+Module: COMP 1004 (40 Credits / Entire First Year) </br>
+Student ID: 10729705
 
 <h2>Project Description</h2>
 <b>This Single-Paged Application will calculate your time-managment by entering your activities from your current schedual using a form and tell you if it is good, ok or bad using a Hue Light Bulb and changing the Background to Red, Amber or Green using a Traffic Light System. The User can Save their progress and Load their progress even if the browser closed from a previous session using a JSON file layedout in the specification. The Single Paged Application will Calculate your Time-Managment Score and Level and represent your activity specifics dynamically in a table.</b>
