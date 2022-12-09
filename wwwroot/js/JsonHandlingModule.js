@@ -14,7 +14,7 @@
 import * as HueLightsModule from '/js/LightModule.js';
 
 //This can be used in the JSON Handling class via aggregation
-let Light = new HueLightsModule.Lights("http://10.208.61.74:5050/api/stlaB2I6VZ8O80Qepc-1xfmLrHgyTFvB9IGupaQz/lights/");
+let Light = new HueLightsModule.Lights("http://192.168.0.50/api/stlaB2I6VZ8O80Qepc-1xfmLrHgyTFvB9IGupaQz/lights");
     /// How to call the Light Functions ///
         //Light.get_All_Light_States();
         //Light.get_Selected_Light_State(1);
